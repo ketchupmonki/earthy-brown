@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "earthy",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(54, 49, 44)",
+      "toolbar_text": "rgb(158, 143, 128)",
+      "frame": "rgb(158, 143, 128)",
+      "tab_background_text": "rgb(54, 49, 44)",
+      "toolbar_field": "rgb(158, 143, 128)",
+      "toolbar_field_text": "rgb(54, 49, 44)",
+      "tab_line": "rgb(158, 143, 128)",
+      "popup": "rgb(121, 191, 101)",
+      "popup_text": "rgb(54, 49, 44)",
+      "tab_loading": "rgb(158, 143, 128)"
+    }
+  }
+}
