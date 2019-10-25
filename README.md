@@ -8,7 +8,7 @@ Initially created in the 'Firefox Color' extension - https://addons.mozilla.org/
 |-|-|-|
 Brown Dark | 54, 49, 44 | #36312C
 Brown Light | 158, 143, 128 | #9E8F80
-Green Soft | 121, 191, 101 | #79bf65  
+Green Soft | 121, 191, 101 | #79BF65
 
 ## Install
 You can download the theme on [GitHub](https://github.com/ketchupmonki/earthy-brown/releases) or via [addons.mozilla.org](https://addons.mozilla.org/en-GB/firefox/addon/earthy-brown/)
