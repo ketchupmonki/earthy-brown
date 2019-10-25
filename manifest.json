@@ -1,32 +1,28 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "earthy",
   "theme": {
-    "images": {
-      "additional_backgrounds": [
-        "images/blank-bg.svg"
-      ]
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
     "colors": {
       "toolbar": "rgb(54, 49, 44)",
-      "toolbar_text": "rgb(158, 143, 128)",
+      "bookmark_text": "rgb(158, 143, 128)",
       "frame": "rgb(158, 143, 128)",
       "tab_background_text": "rgb(54, 49, 44)",
       "toolbar_field": "rgb(158, 143, 128)",
       "toolbar_field_text": "rgb(54, 49, 44)",
+      "toolbar_field_border_focus": "rgb(121, 191, 101)",
+      "toolbar_field_highlight": "rgb(54, 49, 44)",
+      "toolbar_field_highlight_text": "rgb(158, 143, 128)",
       "tab_line": "rgb(158, 143, 128)",
       "popup": "rgb(121, 191, 101)",
+      "popup_highlight": "rgb(54, 49, 44)", 
+      "popup_highlight_text": "rgb(158, 143, 128)",
       "popup_text": "rgb(54, 49, 44)",
-      "tab_loading": "rgb(158, 143, 128)"
+      "tab_loading": "rgb(158, 143, 128)",
+      "sidebar": "rgb(54, 49, 44)",
+      "sidebar_text": "rgb(158, 143, 128)",
+      "sidebar_highlight": "rgb(158, 143, 128)",
+      "sidebar_highlight_text": "rgb(54, 49, 44)"
     }
   }
 }

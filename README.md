@@ -1,7 +1,7 @@
 # earthy-brown
 A simple dark earthy brown theme for Firefox.
 
-Made in the 'Firefox Color' extension - https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/
+Initially created in the 'Firefox Color' extension - https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/
 
 ## Colour Palette
 | Name | RGB | HEX |
